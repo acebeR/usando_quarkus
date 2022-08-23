@@ -1,0 +1,1 @@
+& "c:\Users\acebe\Documents\Git\usando_quarkus\usando_quarkus\mvnw.cmd" quarkus:dev -f "c:\Users\acebe\Documents\Git\usando_quarkus\usando_quarkus\pom.xml"
