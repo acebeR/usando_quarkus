@@ -9,7 +9,8 @@ Configurar o Swagger
 - cmd /c .\mvnw.cmd quarkus:add-extension -Dextensions="io.quarkus:quarkus-smallrye-health,io.quarkus:quarkus-smallrye-openapi" -f "c:\Users\acebe\Documents\Git\usando_quarkus\usando_quarkus\pom.xml"
 Configurar o ID Conection
 - cmd /c .\mvnw.cmd quarkus:add-extension -Dextensions="io.quarkus:quarkus-oidc" -f "c:\Users\acebe\Documents\Git\usando_quarkus\usando_quarkus\pom.xml"
-
+Keycloak
+-cmd /c .\mvnw.cmd quarkus:add-extension -Dextensions="io.quarkus:quarkus-keycloak-admin-client,io.quarkus:quarkus-keycloak-authorization" -f "c:\Users\acebe\Documents\Git\usando_quarkus\usando_quarkus\pom.xml"
 Primeiros passos
 
 01 - local 8080
